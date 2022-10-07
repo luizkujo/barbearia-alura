@@ -35,8 +35,11 @@ h2 {
     color: #e27d30;
 }
 #nn {
-    cursor: pointer; <nav>
-    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;1,200;1,300;1,400&display=swap');}
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;1,200;1,300;1,400&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -119,3 +122,4 @@ nav .menu-btn i{
         color: #f88f06;
     }   
 }
+
